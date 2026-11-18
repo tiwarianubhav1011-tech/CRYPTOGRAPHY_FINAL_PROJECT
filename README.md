@@ -66,8 +66,8 @@ Stronger privacy makes predictions worse. With these settings, models trained on
 ```
 .
 ├── CRYPTOGRAPHY_DIFFERENTIAL_PRIVACY_WITH_ML.ipynb
-├── Differential_Privacy_Updated.pptx
-├── Differential_Privacy_Updated.pdf
+├── Differential_Privacy.pdf
+├── Cryptography project presentation.pdf
 └── README.md
 ```
 
